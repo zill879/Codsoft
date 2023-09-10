@@ -1,8 +1,8 @@
 <h1>Codsoft</h1>
 <h3>THE INTERNSHIP</h3>
 Codsoft projects  
-1.TASK 1    
-TITANIC SURVIVAL PREDICTION       
+1.TASK 1.             
+TITANIC SURVIVAL PREDICTION.              
 2.TASK 2        
 MOVIE RATING PREDICTION WITH PYTHON          
 3.TASK 3       
