@@ -1,13 +1,13 @@
 <h1>Codsoft</h1>
 <h3>THE INTERNSHIP</h3>
-Codsoft projects  
-1.TASK 1.             
-TITANIC SURVIVAL PREDICTION.              
-2.TASK 2        
-MOVIE RATING PREDICTION WITH PYTHON          
-3.TASK 3       
-IRIS FLOWER CLASSIFICATION       
-4.TASK 4       
-SALES PREDICTION USING PYTHON            
-5.TASK 5         
-CREDIT CARD FRAUD DETECTION          
+Codsoft projects<br>
+1.TASK 1<br>             
+TITANIC SURVIVAL PREDICTION<br>              
+2.TASK 2<br>        
+MOVIE RATING PREDICTION WITH PYTHON<br>          
+3.TASK 3<br>       
+IRIS FLOWER CLASSIFICATION<br>       
+4.TASK 4<br>       
+SALES PREDICTION USING PYTHON<br>            
+5.TASK 5<br>         
+CREDIT CARD FRAUD DETECTION<br>          
