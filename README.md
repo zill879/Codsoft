@@ -1,6 +1,6 @@
 <h1>Codsoft</h1>
 <h3>THE INTERNSHIP</h3>
-Codsoft projects<br>
+<h4>Codsoft projects</h4><br>
 1.TASK 1<br>             
 TITANIC SURVIVAL PREDICTION<br>              
 2.TASK 2<br>        
